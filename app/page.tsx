@@ -24,8 +24,8 @@ export default function Home() {
               height={24}
               priority
             />
-          </a>
-        </div>
+          </a>          
+        </div>        
       </div>
 
       <div className={styles.center}>
@@ -37,6 +37,7 @@ export default function Home() {
           height={37}
           priority
         />
+        <h1>Aula next</h1>
       </div>
 
       <div className={styles.grid}>
