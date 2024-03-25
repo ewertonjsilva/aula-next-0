@@ -17,4 +17,12 @@ const usuarios = [
         altura: 1.72, 
         ativo: true
     }, 
+    {
+        id: 4, 
+        nome: 'Marisvânia Mendes', 
+        altura: 1.99, 
+        ativo: true
+    }, 
 ];
+
+export default usuarios;
